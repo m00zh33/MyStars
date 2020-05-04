@@ -35,10 +35,10 @@ Edit only at page 2
 | [Link](https://github.com/klsecservices/rpivot) | socks4 reverse proxy for penetration testing  |
 | [Link](https://github.com/danielbohannon/Invoke-Obfuscation) | Invoke-Obfuscation is a PowerShell v2.0+ compatible PowerShell command and script obfuscator. |
 | [Link](https://github.com/rvazarkar/GMSAPasswordReader) | Reads the password blob from a GMSA account using LDAP, and parses the values into hashes for re-use. |
-| [Link]() |  |
-| [Link]() |  |
-| [Link]() |  |
-| [Link]() |  |
+| [Link](https://github.com/SECFORCE/Tunna) | Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.  |
+| [Link](https://github.com/HarmJ0y/KeeThief) | Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory |
+| [Link](https://github.com/skelsec/kerberoast) | Kerberoast attack -pure python-  |
+| [Link](https://github.com/skelsec/pypykatz) | Mimikatz implementation in pure Python  |
 | [Link]() |  |
 | [Link]() |  |
 | [Link]() |  |
@@ -59,7 +59,7 @@ Edit only at page 2
 | [Link](https://github.com/Sjord/messpostage) | PostMessage extension |
 | [Link](https://github.com/arkadiyt/bounty-targets) | This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/etc) hourly and dumps them into the bounty-targets-data repo  |
 | [Link](https://github.com/devanshbatham/ParamSpider) | Mining parameters from dark corners of Web Archives  |
-| [Link]() |  |
+| [Link](https://github.com/devanshbatham/ArchiveFuzz) | Hunt down the secrets from the WebArchives for Fun and Profit |
 | [Link]() |  |
 | [Link]() |  |
 
@@ -69,6 +69,9 @@ Edit only at page 2
 | [Link](https://github.com/bhdresh/SocialEngineeringPayloads) | This is a collection of social engineering tricks and payloads being used for credential theft and spear phishing attacks.  |
 | [Link](https://github.com/x1sec/commit-stream) | OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API  |
 | [Link]() |  |
+| [Link]() |  |
+| [Link]() |  |
+| [Link]() |  |
 
 ## Nice scripts and tool dumps
 | Link | Description |
@@ -76,6 +79,9 @@ Edit only at page 2
 | [Link](https://github.com/tomnomnom/hacks) | A collection of hacks and one-off scripts |
 | [Link](https://github.com/bl4de/security-tools) | Collection of small security tools created mostly in Python. CTFs, pentests and so on  |
 | [Link](https://github.com/S3cur3Th1sSh1t/Creds) | Some usefull Scripts and Executables for Pentest & Forensics  |
+| [Link](https://github.com/gwen001/pentest-tools) | Custom pentesting tools  |
+| [Link]() |  |
+| [Link]() |  |
 | [Link]() |  |
 
 ## CTF dumps / tools / misc 
@@ -125,7 +131,7 @@ Edit only at page 2
 | Link | Description |
 | --- | --- |
 | [Link](https://github.com/specterops/at-ps) | SpectorOps Adversary Tactics - PowerShell Training  |
-| [Link]() |  |
+| [Link](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet  |
 | [Link]() |  |
 | [Link]() |  |
 | [Link]() |  |
