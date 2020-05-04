@@ -1,6 +1,8 @@
 # MyStars
 I fucking wish we could categorize our stars in Github... but we cant so here... 
 
+Edit only at page 2
+
 ## RedTeaming
 | Link | Description |
 | --- | --- |
